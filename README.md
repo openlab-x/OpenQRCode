@@ -83,28 +83,70 @@ Thess Troubleshooting while you are building(Not our Build and Demo)
 - **Android APK**: [Download APK](https://github.com/openlab-x/OpenQRCode/raw/main/downlaod/Open%20QR%20Code-v1.0.0.apk)
 - **Windows 11 EXE**: [Download EXE](https://github.com/openlab-x/OpenQRCode/raw/main/downlaod/OpenQRCode.zip)
 - 
+
+
 ## Screenshots
 
-
 ### Screenshots Android
-| | | |
-|---|---|---|
-| <img src="screenshots/android/1.jpg" alt="Generate QR Code" width="100"/> | <img src="screenshots/android/2.jpg" width="100"/> | <img src="screenshots/android/3.jpg" width="100"/>
-| <img src="screenshots/android/4.jpg" width="100"/> | <img src="screenshots/android/5.jpg" width="100"/> | <img src="screenshots/android/6.jpg" width="100"/>
-| <img src="screenshots/android/7.jpg" width="100"/> | <img src="screenshots/android/8.jpg" width="100"/> | <img src="screenshots/android/9.jpg" width="100"/>
-| <img src="screenshots/android/10.jpg" width="100"/> | <img src="screenshots/android/11.jpg" width="100"/> | <img src="screenshots/android/12.jpg" width="100"/>
-| <img src="screenshots/android/13.jpg" width="100"/> | <img src="screenshots/android/14.jpg" width="100"/> | <img src="screenshots/android/15.jpg" width="100"/>
-| <img src="screenshots/android/qr_code_1725352250881.png" width="100"/> | <img src="screenshots/android/17.jpg" width="100"/> | <img src="screenshots/android/18.jpg" width="100"/>
-| <img src="screenshots/android/20.jpg" width="100"/> | <img src="screenshots/android/21.jpg" width="100"/>
-| <img src="screenshots/android/22.jpg" width="100"/> | <img src="screenshots/android/23.jpg" width="100"/> | <img src="screenshots/android/24.jpg" width="100"/>
-| <img src="screenshots/android/25.jpg" width="100"/> | <img src="screenshots/android/26.jpg" width="100"/>
+
+<p float="left">
+  <img src="screenshots/android/1.jpg" alt="Generate QR Code" width="150"/>
+  <img src="screenshots/android/2.jpg" width="150"/>
+  <img src="screenshots/android/3.jpg" width="150"/>
+  <img src="screenshots/android/4.jpg" width="150"/>
+  <img src="screenshots/android/5.jpg" width="150"/>
+  <img src="screenshots/android/6.jpg" width="150"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/android/7.jpg" width="150"/>
+  <img src="screenshots/android/8.jpg" width="150"/>
+  <img src="screenshots/android/9.jpg" width="150"/>
+  <img src="screenshots/android/10.jpg" width="150"/>
+  <img src="screenshots/android/11.jpg" width="150"/>
+  <img src="screenshots/android/12.jpg" width="150"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/android/13.jpg" width="150"/>
+  <img src="screenshots/android/14.jpg" width="150"/>
+  <img src="screenshots/android/15.jpg" width="150"/>
+  <img src="screenshots/android/qr_code_1725352250881.png" width="150"/>
+  <img src="screenshots/android/17.jpg" width="150"/>
+  <img src="screenshots/android/18.jpg" width="150"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/android/20.jpg" width="150"/>
+  <img src="screenshots/android/21.jpg" width="150"/>
+  <img src="screenshots/android/22.jpg" width="150"/>
+  <img src="screenshots/android/23.jpg" width="150"/>
+  <img src="screenshots/android/24.jpg" width="150"/>
+  <img src="screenshots/android/25.jpg" width="150"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/android/26.jpg" width="150"/>
+</p>
 
 ### Screenshots Windows
-| | | |
-|---|---|---|
-| <img src="screenshots/win/1.png"  width="200"/> | <img src="screenshots/win/2.png"  width="100"/> | <img src="screenshots/win/3.png"  width="100"/> | <img src="screenshots/win/4.png"  width="200"/>
-| <img src="screenshots/win/5.png"  width="200"/> | <img src="screenshots/win/6.png"  width="200"/> | <img src="screenshots/win/7.png"  width="200"/>
-| <img src="screenshots/win/8.png"  width="200"/>
+
+<p float="left">
+  <img src="screenshots/win/1.png" width="400"/>
+  <img src="screenshots/win/2.png" width="400"/>
+  <img src="screenshots/win/3.png" width="400"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/win/4.png" width="400"/>
+  <img src="screenshots/win/5.png" width="400"/>
+  <img src="screenshots/win/6.png" width="400"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/win/7.png" width="400"/>
+  <img src="screenshots/win/8.png" width="400"/>
+</p>
 
 
 
