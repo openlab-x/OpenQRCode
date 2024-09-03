@@ -1,4 +1,8 @@
 # Open QR Code
+<div align="center">
+  <img src="screenshots/logo_v1.png" width="450"/>
+</div>
+
 
 ![Generate QR Code](screenshots/multiview2.png)
 
