@@ -80,8 +80,8 @@ Thess Troubleshooting while you are building(Not our Build and Demo)
 ## Demo Links and Downloads
 
 - **Web Demo**: [Open QR Code Web](https://)
-- **Android APK**: [Download APK](https://)
-- **Windows 11 EXE**: [Download EXE](https://)
+- **Android APK**: [Download APK]([https://](https://github.com/openlab-x/OpenQRCode/raw/main/downlaod/Open%20QR%20Code-v1.0.0.apk))
+- **Windows 11 EXE**: [Download EXE]([https://](https://github.com/openlab-x/OpenQRCode/raw/main/downlaod/OpenQRCode.zip))
 
 ## Screenshots
 
