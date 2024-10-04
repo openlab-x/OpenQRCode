@@ -285,8 +285,10 @@ In pursuit of innovation,
 
 **Follow Us:**
 
-- [Instagram](https://www.instagram.com/openlabx_official/)
-- [X (formerly Twitter)](https://x.com/openlabx)
-- [Facebook](https://www.facebook.com/openlabx/)
-- [YouTube](https://www.youtube.com/@OpenLabX)
-- [GitHub](https://github.com/openlab-x)
+<div align="center">
+| <a href="https://www.instagram.com/openlabx_official/" target="_blank"><strong>Instagram</strong></a> |
+<a href="https://x.com/openlabx" target="_blank"><strong>X (formerly Twitter)</strong></a> |
+<a href="https://www.facebook.com/openlabx/" target="_blank"><strong>Facebook</strong></a> |
+<a href="https://www.youtube.com/@OpenLabX" target="_blank"><strong>YouTube</strong></a> |
+<a href="https://github.com/openlab-x" target="_blank"><strong>GitHub</strong></a> |
+</div>
