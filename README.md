@@ -6,7 +6,9 @@
 
 ![Generate QR Code](screenshots/multiview2.png)
 
-
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=light)
+  - [Made With GitHubViewsCounter](https://github.com/openlab-x/GitHubViewsCounter)
+    
 ## About
 Open QR Code is an open-source cross-platform application developed using Flutter as main framework used to build the application, in common C, C++, Dart, Skia (a 2D rendering engine), and Impeller (the default rendering engine on iOS), Java, Kotlin. Open QR Code allows users to generate and scan QR codes effortlessly. The app is available on Android, Windows, and the Web. Users can generate QR codes from any text input, save them to their gallery, share them directly from the app, and scan QR codes to retrieve encoded information. Whether you're on Android, Windows, or the Web, you can create and share QR codes or scan them with a single click.
 
