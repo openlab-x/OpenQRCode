@@ -1,11 +1,12 @@
 # Open QR Code
 
 <div align="right">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter"><br>
-  <small>
-     <a href="https://github.com/openlab-x/GitHubViewsCounter">Made With GitHubViewsCounter</a>
-  </small>
+  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter">
+  <span style="font-size: 6px;">
+    - <a href="https://github.com/openlab-x/GitHubViewsCounter">Made With GitHubViewsCounter</a>
+  </span>
 </div>
+
 
 
 
