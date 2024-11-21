@@ -3,7 +3,7 @@
 <div align="right">
   <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=dark" alt="GitHubViewsCounter">
   <br>
-  <span style="font-size: 8px;">
+  <span style="font-size: 1px;">
     - <a href="https://github.com/openlab-x/GitHubViewsCounter">Made With GitHubViewsCounter</a>
   </span>
 </div>
