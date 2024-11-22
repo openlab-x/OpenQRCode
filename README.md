@@ -1,4 +1,4 @@
-# Open QR Code
+
 
 <div align="right">
   <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=dark" alt="GitHubViewsCounter">
@@ -7,7 +7,7 @@
 
 </div>
 
-
+# Open QR Code
 
 
 <div align="center">
