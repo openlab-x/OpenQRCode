@@ -2,9 +2,8 @@
 
 
 
-# Open QR Code
+# Open QR Code ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=dark)
 <div align="center">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=dark" alt="GitHubViewsCounter">
  
   <sub>- <a href="https://github.com/openlab-x/GitHubViewsCounter">Made With GitHubViewsCounter</a></sub>
 
